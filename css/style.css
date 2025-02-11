@@ -1,0 +1,24 @@
+body{
+    font-family: "Open Sans", Arial, sans-serif;
+    line-height: 1.5;
+}
+
+h1{
+    /* Font-weight changes boldness */
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.italicText{
+    font-style: italic;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.description{
+    font-size: 1.1rem;
+    text-align: justify;
+}
